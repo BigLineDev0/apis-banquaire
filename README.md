@@ -1,6 +1,8 @@
 # PROJET  WEBSERVICES DEVELOPPEMENT API-BANQUAIRE
 
-# EQUIPE : Aliou DIALLO - INE : N00AC1320181  &&  Assane KA - INE : N0019DD20181
+# EQUIPE : 
+# Aliou DIALLO - INE : N00AC1320181  
+# Assane KA - INE : N0019DD20181
 
 # Partie 3 : Évaluation et Comparaison
 
